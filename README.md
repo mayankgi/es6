@@ -80,3 +80,8 @@ let foo = {
 
 
 ```
+
+## JavaScript Coding Conventions by Airbnb ##
+
+1. [JavaScript](https://github.com/airbnb/javascript)
+1. [React](https://github.com/airbnb/javascript/tree/master/react)
